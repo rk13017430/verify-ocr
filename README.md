@@ -1,4 +1,4 @@
-# Image to text converter
+# Image to text converter(Adhar,Pan,dl,voter,passport,gst,cin and many documents)
 image to text converter and output in Structured data Json format.
 ->clone this git .
 ->creat a new project by creating virtual environment.
